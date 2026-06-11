@@ -26,7 +26,7 @@
 
 ## 🚀 Sobre mí
 
-Soy estudiante de Ingeniería de Sistemas en la Corporación Universitaria Remington con promedio académico de **4.4/5.0**.
+Soy estudiante de Ingeniería de Sistemas
 
 Me apasiona el desarrollo de software, el desarrollo web, las aplicaciones móviles y la creación de soluciones tecnológicas que ayuden a resolver problemas reales.
 
